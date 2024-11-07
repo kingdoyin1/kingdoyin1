@@ -36,7 +36,3 @@ I approach each project with a problem-solving mindset, aiming to add value by a
 ## Get in Touch
 
 Thank you for visiting my profile! If you’re interested in collaborating, discussing data-related topics, or learning more about my work, feel free to reach out. Let’s connect and explore the potential of data to drive meaningful results together.
-
----
-
-Let me know if you’d like further customization!
