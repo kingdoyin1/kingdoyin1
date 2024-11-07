@@ -1,3 +1,4 @@
+
 # Adedoyin Oshidele 
 
 Welcome to my Data Analyst profile! I'm **Adedoyin Oshidele**, a passionate data analyst dedicated to transforming raw data into actionable insights that support strategic decisions. My expertise spans data visualization, analysis, and management, with a skill set built around tools like **Excel**, **PowerBI**, and **MySQL**.
@@ -35,4 +36,4 @@ I approach each project with a problem-solving mindset, aiming to add value by a
 
 ## Get in Touch
 
-Thank you for visiting my profile! If you’re interested in collaborating, discussing data-related topics, or learning more about my work, feel free to reach out. Let’s connect and explore the potential of data to drive meaningful results together.
+Thank you for visiting my profile! If you’re interested in collaborating, discussing data-related topics, or learning more about my work, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adedoyin-oshidele-520915302). Let’s connect and explore the potential of data to drive meaningful results together.
